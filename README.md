@@ -2,7 +2,7 @@
 动态rem——移动端适配方案
 
 ### 如何使用
-#### 1、内联引入remrest.js
+#### 1、`<head></head>`中内联引入remrest.js
 
 ```
 <script type="text/javascript" src="lib/remreset.js?__inline"></script>
