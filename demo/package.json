@@ -1,0 +1,14 @@
+{
+  "name": "remdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fis-conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fis3-postprocessor-remreset": "^0.0.2"
+  },
+  "author": "chenping06",
+  "license": "ISC"
+}
