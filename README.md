@@ -11,7 +11,7 @@
 #### 2、编写css
 
 * 如果不想将px转换为rem，则rule后面增加注释 `/*no*/`
-* 字体仍然使用px作为单位，则rule后面增加注释 `/*px*/`。remreset插件会自动将该rule转换为[data-dpr="1"],[data-dpr="2"],[data-dpr="3"]下的rule
+* 字体仍然使用px作为单位，rule后面增加注释 `/*px*/`。remreset插件会自动将该rule转换为[data-dpr="1"],[data-dpr="2"],[data-dpr="3"]下的rule
 
 
 ```
